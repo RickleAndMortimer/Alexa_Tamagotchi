@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>RickleAndMortimer</groupId>
+  <artifactId>Alexa_Tomagachi</artifactId>
+  <version>0.0.1</version>
+  <name>Tomagachi in Alexa</name>
+  <description>A port of Tomagachis in your Alexa</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.amazon.alexa</groupId>
+  		<artifactId>ask-sdk</artifactId>
+  		<version>2.20.2</version>
+  	</dependency>
+  </dependencies>
+</project>
